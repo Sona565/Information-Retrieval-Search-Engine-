@@ -18,4 +18,3 @@ Change the ip address present in the routes.py folder and the core names of apac
 
 python run.py -> https://localhost:5000 , you can see the website up and running. 
 
-Feel free to reach me at krishnatejamellacheruvu@gmail.com, for any sort of queries.
